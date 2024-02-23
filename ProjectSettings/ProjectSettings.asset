@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 24
-  productGUID: 1e2ad901f5899ed4bab7bf8012e7ec28
+  productGUID: 0f42a03c745f40c45a25a39e6f4ee405
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: DJ-Studio_V2
+  productName: DJ Studio
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -769,10 +769,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: ab7e4927-129b-43a5-8f3d-f1f11b7eebbb
+  cloudProjectId: ca770c5a-1958-4507-b5ca-79e74a98e7ee
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: DJ-Studio_V2
+  projectName: DJ Studio
   organizationId: ainhoavp
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0

@@ -8,4 +8,25 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Inicio.unity
+    guid: 7a9570a93a6a5184f8f9e56b52865433
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 198ddd426052cdf469f0c37aa457d397
+  - enabled: 1
+    path: Assets/Scenes/Setting.unity
+    guid: dfcd48aa0038bae46b85ebdc3a343bc8
+  - enabled: 1
+    path: Assets/Scenes/Minijuego.unity
+    guid: 950fc2c2069ca014b8fc430de3e87709
+  - enabled: 1
+    path: Assets/Scenes/Personalizacion.unity
+    guid: ec36cf3345ee90e4e9beb08589dc6d26
+  - enabled: 1
+    path: Assets/Scenes/Catalogo.unity
+    guid: be0d6a16e15c01941aa362bb40a8f4f3
+  - enabled: 1
+    path: Assets/Scenes/Selection.unity
+    guid: 55324deb14dc21347a113a56ff5609e9
   m_configObjects: {}

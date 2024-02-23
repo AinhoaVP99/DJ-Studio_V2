@@ -769,10 +769,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: ca770c5a-1958-4507-b5ca-79e74a98e7ee
+  cloudProjectId: ab7e4927-129b-43a5-8f3d-f1f11b7eebbb
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: DJ Studio
+  projectName: DJ-Studio_V2
   organizationId: ainhoavp
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
